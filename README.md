@@ -8,7 +8,8 @@ https://drive.google.com/file/d/177Gyj-9pK3_YYUpvFPYwQV02o37FOlrJ/view?usp=shari
 C language 
 ## Team Member
 
+ - Nitin Sharma 
  - Manish Joshi
  - Pushkar Gupta
- - Nitin Sharma 
+
 
