@@ -4,7 +4,7 @@
 It is a card game which we play for entertainment purposes. 
 
 More info about the game here:-
-https://www.pagat.com/banking/31.html
+https://drive.google.com/file/d/177Gyj-9pK3_YYUpvFPYwQV02o37FOlrJ/view?usp=sharing
 
 
 ## 🛠 Skills
